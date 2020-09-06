@@ -1,8 +1,8 @@
 ## Extend your Futter code
 
-Are you looking for an alternative to the nested widget structure of Flutter? Then extracting the widgets into a different method, can be a good solution. There is another solution, or even this solution can work alongside the method extraction.
+Are you looking for an alternative to the nested widget structure of Flutter? Extracting the complex widgets into a different widget, can be a good solution. There is another solution, or even both solutions can work together.
 
-For this, we can leverage the power of the great Dart feature called Extension which is introduced in Dart 2.7.
+For this, we can leverage the power of Dart feature called Extension which was introduced in Dart 2.7.
 
 ### So, what is `extension` in Dart?
 An extension is a way of adding additional functionality to your dart data types.
