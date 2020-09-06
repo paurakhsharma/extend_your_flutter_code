@@ -304,3 +304,5 @@ Dart extension can be used in flutter to decrease the boilerplate code for repea
 I would love to hear your thoughts on using extensions on Flutter code. If you like this you might love an awesome UI framework [VelocityX](https://github.com/iampawan/velocityx) by [The Pawan Kumar](https://twitter.com/imthepk)
 
 Please let me know what you want me to cover next, in the mean time follow me on [Twitter](https://twitter.com/PaurakhSharma)
+
+Happy Coding
