@@ -1,6 +1,6 @@
 ## Extend your Futter code
 
-Are you looking for an alternative to the nested widget structure of Flutter? Then extracting the widgets into a different method, can be a good solution. There is another solution or even this solution can work alongside the method extraction.
+Are you looking for an alternative to the nested widget structure of Flutter? Then extracting the widgets into a different method, can be a good solution. There is another solution, or even this solution can work alongside the method extraction.
 
 For this, we can leverage the power of the great Dart feature called Extension which is introduced in Dart 2.7.
 
@@ -294,3 +294,13 @@ build(BuildContext context) {
   }
 
 ```
+
+### Conclusion
+
+The example app using things taught in this blog can be found at [Github](https://github.com/paurakhsharma)
+
+Dart extension can be used in flutter to decrease the boilerplate code for repeating simple widgets. If the widget is more complex it is better to extract it into a separate widget.
+
+I would love to hear your thoughts on using extensions on Flutter code. If you like this you might love an awesome UI framework [VelocityX](https://github.com/iampawan/velocityx) by [The Pawan Kumar](https://twitter.com/imthepk)
+
+Please let me know what you want me to cover next, in the mean time follow me on [Twitter](https://twitter.com/PaurakhSharma)
