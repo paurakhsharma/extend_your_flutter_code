@@ -1,6 +1,6 @@
 ## Extend your Flutter Code
 
-This repo contains codes for: https://dev.to/paurakhsharma/extend-your-futter-code-4bgf-temp-slug-1033248?preview=722a312881ca36b827c709395eebb1fc6017091d5c6e3cea21bec526077964442a2be35a2a54f12973693767a266879d361dbd33a36b2c92c9116f28
+This repo contains codes for: https://dev.to/paurakhsharma/extend-your-futter-code-2cnc
 
 ## Running the example
 First of all clone the repo and get inside the `example` directory.
